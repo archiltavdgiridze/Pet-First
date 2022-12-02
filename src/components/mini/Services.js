@@ -23,7 +23,6 @@ const Services = () => {
       <div className="services__item services__item-right">
         <div className="services__circle-right">
           <img src={scissorsIcon} />
-
         </div>
         <h4 className="services__item-title">Breed-specific Haircuts</h4>
         <p className="services__item-desc">
@@ -32,7 +31,7 @@ const Services = () => {
         </p>
         <button>Explore</button>
       </div>
-      <div className='services__right-arrows'>
+      <div className="services__right-arrows">
         <img src={arrows} />
       </div>
     </>
