@@ -10,8 +10,8 @@ const Header = () => {
           </div>
           <div className="header__nav">
             <ul className="header__nav-list">
-              <li className="header__nav-item">
-                <a href="#" className="header__nav-link">
+              <li className="header__nav-item link_hover">
+                <a href="#" className="header__nav-link ">
                   About
                 </a>
               </li>
