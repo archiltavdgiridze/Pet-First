@@ -782,10 +782,27 @@ header {
 }
 
 .subscribe__left {
+  position: relative;
+  display: flex;
+  justify-content: center;
   width: 50%;
   height: 324px;
   background-color: var(--yellow);
+  background-image: url(../src/assets/BlueOrnament2.png);
+  background-repeat: no-repeat;
+  background-position: top 100px left 60px;
+
+
 }
+
+.subscribe__left img{
+  position: absolute;
+  left: 200px;
+  bottom: 0px;
+}
+
+
+
 
 .subscribe__right {
   width: 50%;
@@ -796,7 +813,7 @@ header {
   background-position: top right;
 }
 
-.subscribe__right h3{
+.subscribe__right h3 {
   font-size: 46px;
   line-height: 60px;
   font-weight: 600;
@@ -809,7 +826,7 @@ header {
   height: 45px;
   margin: 50px 0 0 64px;
   border: 0;
-  
+
   background-color: var(--primaryOrange);
 }
 
