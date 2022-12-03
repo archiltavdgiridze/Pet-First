@@ -60,6 +60,13 @@ body * {
   }
 }
 
+/* ! HEADER */
+header {
+  padding: 44px 0 10px 0;
+  width: 100%;
+  height: auto;
+}
+
 .header__logo {
   cursor: pointer;
   font-weight: 600;
@@ -68,11 +75,6 @@ body * {
   color: var(--primaryBlue);
 }
 
-header {
-  padding: 44px 0 10px 0;
-  width: 100%;
-  height: auto;
-}
 
 .header__content {
   display: flex;
@@ -139,6 +141,8 @@ header {
   }
 }
 
+/* ! HERO */
+
 .hero {
   margin-bottom: 50px;
 }
@@ -182,7 +186,6 @@ header {
   background-color: var(--primaryOrange);
   border: 0px solid transparent;
   cursor: pointer;
-
 }
 
 .hero__right {}
@@ -226,6 +229,7 @@ header {
   background-color: #fff;
 }
 
+/* ! HERO MEDIA */
 
 @media only screen and (max-width: 1100px) {
   .arrow_text p {
@@ -288,6 +292,8 @@ header {
     font-size: 13px;
   }
 }
+
+/* ! BANNER */
 
 .banner {
   width: 100%;
@@ -396,6 +402,8 @@ header {
   font-weight: 400;
 }
 
+/* ! BANNER MEDIA */
+
 @media only screen and (max-width: 1110px) {
   .banner__left span {
     display: none;
@@ -472,6 +480,8 @@ header {
     margin-left: 20px;
   }
 }
+
+/* ! SERVICES */
 
 .service {
   width: 100%;
@@ -588,6 +598,8 @@ header {
   right: 1px;
 }
 
+/* ! COMMENT */
+
 .comment {
   width: 100%;
   height: auto;
@@ -659,6 +671,7 @@ header {
   margin-left: 18px;
 }
 
+/* ! COMMENT MEDIA */
 @media only screen and (max-width: 1200px) {
   .comment__content {
     flex-direction: column;
@@ -672,6 +685,8 @@ header {
     flex-direction: column;
   }
 }
+
+/* ! REVIEW */
 
 .review {
   width: 100%;
@@ -778,7 +793,6 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
-
 }
 
 .subscribe__left {
@@ -791,8 +805,6 @@ header {
   background-image: url(../src/assets/BlueOrnament2.png);
   background-repeat: no-repeat;
   background-position: top 100px left 60px;
-
-
 }
 
 .subscribe__left img {
@@ -800,8 +812,6 @@ header {
   left: 200px;
   bottom: 0px;
 }
-
-
 
 
 .subscribe__right {
@@ -826,7 +836,10 @@ header {
   height: 45px;
   margin: 50px 0 0 64px;
   border: 0;
-
+  color: #fff;
+  font-weight: 400;
+  font-size: 26px;
+  letter-spacing: 0.01em;
   background-color: var(--primaryOrange);
 }
 
