@@ -12,13 +12,6 @@ const Review = () => {
         <div className="review__content">
           <div className="review__left">
             <img src={guy} />
-
-            {/* <div className="review__left-quote">
-              
-              <img className='review__left-quote-img' src={quote} />
-            
-            </div> */}
-
             <div className="review__left-slider">
               <img className="review__left-slider-img" src={slider} />
             </div>

@@ -6,6 +6,7 @@ import Service from "./components/Service";
 import Comment from "./components/Comment";
 import Review from "./components/Review";
 import Subscribe from "./components/Subscribe";
+import Footer from "./components/Footer"
 
 const App = () => {
   return (
@@ -17,6 +18,7 @@ const App = () => {
       <Comment />
       <Review />
       <Subscribe />
+      <Footer />
     </div>
   );
 };
