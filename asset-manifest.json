@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Pet-First/static/css/main.c1e5c24c.css",
+    "main.js": "/Pet-First/static/js/main.1a785bc0.js",
+    "static/media/dogWithGirl.png": "/Pet-First/static/media/dogWithGirl.762c331ed1083baff535.png",
+    "static/media/doginHoody.png": "/Pet-First/static/media/doginHoody.d4889fdfe28a52dfd0bd.png",
+    "static/media/avatar.png": "/Pet-First/static/media/avatar.a790b29a32099ab6241c.png",
+    "static/media/brownDog.png": "/Pet-First/static/media/brownDog.a04e208cd887f8ed4be6.png",
+    "static/media/2.png": "/Pet-First/static/media/2.fbe16ab8bd96663e4d3f.png",
+    "static/media/3.png": "/Pet-First/static/media/3.b32079d28871468dc86b.png",
+    "static/media/dogJasper.png": "/Pet-First/static/media/dogJasper.84575b9726a5130da51b.png",
+    "static/media/pet6.png": "/Pet-First/static/media/pet6.0f8bd9f038044ab28780.png",
+    "static/media/pet5.png": "/Pet-First/static/media/pet5.04f0f110a2327c346674.png",
+    "static/media/pet2.png": "/Pet-First/static/media/pet2.3540322ce9ba14b23cde.png",
+    "static/media/pet9.png": "/Pet-First/static/media/pet9.06f1d8741281abe0ab70.png",
+    "static/media/pet4.png": "/Pet-First/static/media/pet4.2211d002703c7a32d09a.png",
+    "static/media/yellowOrnament.png": "/Pet-First/static/media/yellowOrnament.caff1faaa896ca21ec4b.png",
+    "static/media/pet8.png": "/Pet-First/static/media/pet8.634e807e46f215378947.png",
+    "static/media/pet3.png": "/Pet-First/static/media/pet3.c42a90c087417188bbe8.png",
+    "static/media/pet1.png": "/Pet-First/static/media/pet1.cc9681ab3be407cf125d.png",
+    "static/media/pet11.png": "/Pet-First/static/media/pet11.e1939c70c80db204cccd.png",
+    "static/media/pet10.png": "/Pet-First/static/media/pet10.c37f478845cddbee4965.png",
+    "index.html": "/Pet-First/index.html",
+    "main.c1e5c24c.css.map": "/Pet-First/static/css/main.c1e5c24c.css.map",
+    "main.1a785bc0.js.map": "/Pet-First/static/js/main.1a785bc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1e5c24c.css",
+    "static/js/main.1a785bc0.js"
+  ]
+}
